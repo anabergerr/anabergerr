@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anabergerr">
 <h2> Olá, eu sou a Ana! <img src="https://media.giphy.com/media/7NloJqPEdWl7lUb6Uj/giphy.gif" width="50"></h2>
 
 
