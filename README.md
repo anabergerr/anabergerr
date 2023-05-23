@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ```javascript
 const ana = {
   pronouns: "she" || "her",
-  code: [HTML5, CSS3, React, Next, Javascript, Typescript],
+  code: [HTML5, CSS3, React, Next, Javascript, Typescript, Python],
   tools: [Storybook, Styled-Components,MaterialUi], 
 }
 ```
