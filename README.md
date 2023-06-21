@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 <div style="display: flex;">
 
-<p>Instrutora de Fundamentos JavaScript na @Trybe <img src="https://media.giphy.com/media/fSGrpj2wJynDwgftc7/giphy.gif?cid=ecf05e47gv5f7ukbcnnxd5pi9kijd5e3b56k0hakqn591ogv&rid=giphy.gif&ct=s" width="50"> & dev front-end</p>
+<p>Instrutora no módulo de CS na @Trybe <img src="https://media.giphy.com/media/fSGrpj2wJynDwgftc7/giphy.gif?cid=ecf05e47gv5f7ukbcnnxd5pi9kijd5e3b56k0hakqn591ogv&rid=giphy.gif&ct=s" width="50"> & dev front-end</p>
 
 
 ---
