@@ -27,7 +27,7 @@ Olá, eu sou a Ana!
 ```javascript
 const ana = {
   pronouns: "she" || "her",
-  code: [HTML5, CSS3, React, Next, Javascript, Typescript, Python],
+  code: [HTML5, CSS3, React, Next, Javascript, Typescript, Python, Kotlin],
   tools: [Storybook, Styled-Components,MaterialUi], 
 }
 ```
