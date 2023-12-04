@@ -27,12 +27,12 @@ Olá, eu sou a Ana!
 ```javascript
 const ana = {
   pronouns: "she" || "her",
-  code: [HTML5, CSS3, React, Next, Javascript, Typescript, Python, Kotlin],
+  code: [HTML5, CSS3, React, Next, Javascript, Typescript, Python, Kotlin, Desenvolvimento Android],
   tools: [Storybook, Styled-Components,MaterialUi], 
 }
 ```
 
-
+Eu escrevo uns artigos também :) você pode acompanhar clicando [aqui](https://dev.to/analaura)
 
 
 
