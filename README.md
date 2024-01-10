@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 -->
 
 Olá, eu sou a Ana!
-
-<p>Instrutora de Android na @Trybe <img src="https://media.giphy.com/media/fSGrpj2wJynDwgftc7/giphy.gif?cid=ecf05e47gv5f7ukbcnnxd5pi9kijd5e3b56k0hakqn591ogv&rid=giphy.gif&ct=s" width="50"/> 
-
-
 ---
 
 <img src="https://media.giphy.com/media/UQsHPXWUijXGwdEGeZ/giphy.gif?cid=ecf05e47yg8ptjwotii05ygoqrvvsuqp27o7d8duy3asxqaf&rid=giphy.gif&ct=s" width="50">
