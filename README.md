@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 Olá, eu sou a Ana!
 ---
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anabergerr&hide=javascript,css,scss,html&theme=tokyonight)
+
+
+
+
 <img src="https://media.giphy.com/media/UQsHPXWUijXGwdEGeZ/giphy.gif?cid=ecf05e47yg8ptjwotii05ygoqrvvsuqp27o7d8duy3asxqaf&rid=giphy.gif&ct=s" width="50">
 
 
