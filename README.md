@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/UQsHPXWUijXGwdEGeZ/giphy.gif?cid=ecf05e47yg8ptjwotii05ygoqrvvsuqp27o7d8duy3asxqaf&rid=giphy.gif&ct=s" width="50">
 
 
+
 ```javascript
 const ana = {
   pronouns: "she" || "her",
@@ -27,6 +28,14 @@ const ana = {
 }
 ```
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anabergerr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anabergerr&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 
