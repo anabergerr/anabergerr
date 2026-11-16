@@ -1,41 +1,35 @@
+# Hi, I'm Ana Laura 👋
 
-<!--
-**anaberger/anaberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Backend Developer | Software Engineer**
 
-Here are some ideas to get you started:
+I'm a software engineer passionate about technology, problem-solving, and continuous learning. I enjoy building software solutions, exploring new technologies, and turning complex problems into simple and effective solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working at **Itaú Unibanco**, focusing on backend development, cloud technologies, and software architecture.
 
----
+### About me
 
+- 💻 5+ years of experience in software development.
+- ☁️ Working with backend systems, APIs, cloud infrastructure, and distributed architectures.
+- 🤖 Experience building AI-powered applications using LLMs and Python.
+- 🎓 Background in Full Stack Development and technical education.
+- 📚 Always learning and exploring new areas of software engineering.
 
-<img src="https://media.giphy.com/media/UQsHPXWUijXGwdEGeZ/giphy.gif?cid=ecf05e47yg8ptjwotii05ygoqrvvsuqp27o7d8duy3asxqaf&rid=giphy.gif&ct=s" width="50">
+### Tech Stack
 
+**Languages & Frameworks**
 
+`Python` `Node.js` `TypeScript` `JavaScript` `React` `Next.js`
 
-```javascript
-const ana = {
-  pronouns: "she" || "her",
-  code: [HTML5, CSS3, React, Next, Javascript, Typescript, Python, Kotlin],
-}
-```
+**Cloud & Architecture**
 
-### ⚙️ &nbsp;GitHub Analytics
+`AWS` `Microservices` `Event-Driven Architecture` `REST APIs`
 
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anabergerr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anabergerr&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+**AI & Data**
 
+`LLMs` `Generative AI` `NLP` `RAG`
 
+### Connect with me
 
+- [LinkedIn](https://www.linkedin.com/in/ana-berger/)
+- [GitHub](https://github.com/anabergerr)
+- [Portfolio](https://analau-com.vercel.app/)
