@@ -2,9 +2,9 @@
 
 **Senior Backend Developer | Software Engineer**
 
-I'm a software engineer passionate about technology, problem-solving, and continuous learning. I enjoy building software solutions, exploring new technologies, and turning complex problems into simple and effective solutions.
+I'm a software engineer with 5+ years of experience building software solutions. I'm passionate about technology, problem-solving, and continuous learning.
 
-Currently working at **Itaú Unibanco**, focusing on backend development, cloud technologies, and software architecture.
+Currently, I'm a Senior Software Engineer at Zup Innovation, working on projects for Itaú Unibanco, with a focus on backend development, cloud technologies, and software architecture.
 
 ### About me
 
